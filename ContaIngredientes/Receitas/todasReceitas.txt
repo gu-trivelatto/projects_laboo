@@ -1,0 +1,7 @@
+antepastoDeAbobrinhaComPimentaCambuci.txt
+assadoDeTofu.txt
+entreveroDePinhaoComCogumelos.txt
+fricasseDeCarneDeJaca.txt
+fritadaDeCara.txt
+hamburguerDeLentilha.txt
+raspadinhaDeAcaiComLimao.txt

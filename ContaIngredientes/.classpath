@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-13">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Gustavo/Downloads/pdfbox-app-2.0.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gustavo/Downloads/pdfbox-tools-2.0.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gustavo/Downloads/xmpbox-2.0.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gustavo/Downloads/pdfbox-2.0.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gustavo/Downloads/fontbox-2.0.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gustavo/Downloads/preflight-2.0.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gustavo/Downloads/javax.servlet-api-4.0.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,48 @@
+Selection sort mil aleatorio  int: 6119000ns
+Selection sort mil aleatorio  float: 6926000ns
+Selection sort mil aleatorio  double: 7739600ns
+
+Merge sort mil invertido  int: 924800ns
+Merge sort mil invertido  float: 1048400ns
+Merge sort mil invertido  double: 1070000ns
+
+Merge sort mil aleatorio  int: 283500ns
+Merge sort mil aleatorio  float: 273200ns
+Merge sort mil aleatorio  double: 295400ns
+
+Insertion sort mil quase organizado  int: 4662800ns
+Insertion sort mil quase organizado  float: 4454700ns
+Insertion sort mil quase organizado  double: 4584500ns
+
+Quick sort mil invertido  int: 552300ns
+Quick sort mil invertido  float: 522400ns
+Quick sort mil invertido  double: 533200ns
+
+Quick sort mil aleatorio  int: 108800ns
+Quick sort mil aleatorio  float: 131900ns
+Quick sort mil aleatorio  double: 123400ns
+
+Insertion sort mil invertido  int: 7639900ns
+Insertion sort mil invertido  float: 8712900ns
+Insertion sort mil invertido  double: 1375200ns
+
+Insertion sort mil aleatorio  int: 146200ns
+Insertion sort mil aleatorio  float: 170500ns
+Insertion sort mil aleatorio  double: 153200ns
+
+Merge sort mil quase organizado  int: 184900ns
+Merge sort mil quase organizado  float: 186200ns
+Merge sort mil quase organizado  double: 191600ns
+
+Selection sort mil quase organizado  int: 727700ns
+Selection sort mil quase organizado  float: 778300ns
+Selection sort mil quase organizado  double: 789300ns
+
+Quick sort mil quase organizado  int: 144400ns
+Quick sort mil quase organizado  float: 155400ns
+Quick sort mil quase organizado  double: 160100ns
+
+Selection sort mil invertido  int: 625800ns
+Selection sort mil invertido  float: 666700ns
+Selection sort mil invertido  double: 764800ns
+

@@ -1,0 +1,48 @@
+Selection sort um milhao aleatorio  int: 385133ms
+Selection sort um milhao aleatorio  float: 397134ms
+Selection sort um milhao aleatorio  double: 486954ms
+
+Merge sort um milhao invertido  int: 201ms
+Merge sort um milhao invertido  float: 214ms
+Merge sort um milhao invertido  double: 234ms
+
+Merge sort um milhao aleatorio  int: 192ms
+Merge sort um milhao aleatorio  float: 192ms
+Merge sort um milhao aleatorio  double: 210ms
+
+Insertion sort um milhao quase organizado  int: 477529ms
+Insertion sort um milhao quase organizado  float: 879612ms
+Insertion sort um milhao quase organizado  double: 844102ms
+
+Quick sort um milhao invertido  int: 114ms
+Quick sort um milhao invertido  float: 142ms
+Quick sort um milhao invertido  double: 141ms
+
+Quick sort um milhao aleatorio  int: 113ms
+Quick sort um milhao aleatorio  float: 142ms
+Quick sort um milhao aleatorio  double: 144ms
+
+Insertion sort um milhao invertido  int: 465454ms
+Insertion sort um milhao invertido  float: 847612ms
+Insertion sort um milhao invertido  double: 906724ms
+
+Insertion sort um milhao aleatorio  int: 139314ms
+Insertion sort um milhao aleatorio  float: 144214ms
+Insertion sort um milhao aleatorio  double: 203466ms
+
+Merge sort um milhao quase organizado  int: 247ms
+Merge sort um milhao quase organizado  float: 220ms
+Merge sort um milhao quase organizado  double: 224ms
+
+Selection sort um milhao quase organizado  int: 382600ms
+Selection sort um milhao quase organizado  float: 392308ms
+Selection sort um milhao quase organizado  double: 483740ms
+
+Quick sort um milhao quase organizado  int: 107ms
+Quick sort um milhao quase organizado  float: 135ms
+Quick sort um milhao quase organizado  double: 138ms
+
+Selection sort um milhao invertido  int: 410415ms
+Selection sort um milhao invertido  float: 421304ms
+Selection sort um milhao invertido  double: 483511ms
+

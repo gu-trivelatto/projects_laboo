@@ -1,0 +1,48 @@
+Selection sort cem mil aleatorio  int: 3724220200ns
+Selection sort cem mil aleatorio  float: 3868608000ns
+Selection sort cem mil aleatorio  double: 4069369700ns
+
+Merge sort cem mil invertido  int: 27738000ns
+Merge sort cem mil invertido  float: 26073600ns
+Merge sort cem mil invertido  double: 31119800ns
+
+Merge sort cem mil aleatorio  int: 17533100ns
+Merge sort cem mil aleatorio  float: 20453200ns
+Merge sort cem mil aleatorio  double: 27407400ns
+
+Insertion sort cem mil quase organizado  int: 4656088200ns
+Insertion sort cem mil quase organizado  float: 9250734400ns
+Insertion sort cem mil quase organizado  double: 9022015100ns
+
+Quick sort cem mil invertido  int: 18425500ns
+Quick sort cem mil invertido  float: 28871200ns
+Quick sort cem mil invertido  double: 18470600ns
+
+Quick sort cem mil aleatorio  int: 9107100ns
+Quick sort cem mil aleatorio  float: 10753900ns
+Quick sort cem mil aleatorio  double: 10892400ns
+
+Insertion sort cem mil invertido  int: 4604761200ns
+Insertion sort cem mil invertido  float: 8976746300ns
+Insertion sort cem mil invertido  double: 8983079900ns
+
+Insertion sort cem mil aleatorio  int: 1332697900ns
+Insertion sort cem mil aleatorio  float: 1432057800ns
+Insertion sort cem mil aleatorio  double: 1625838800ns
+
+Merge sort cem mil quase organizado  int: 14639100ns
+Merge sort cem mil quase organizado  float: 18713400ns
+Merge sort cem mil quase organizado  double: 17525500ns
+
+Selection sort cem mil quase organizado  int: 3712970200ns
+Selection sort cem mil quase organizado  float: 3843479100ns
+Selection sort cem mil quase organizado  double: 4063895200ns
+
+Quick sort cem mil quase organizado  int: 9133200ns
+Quick sort cem mil quase organizado  float: 11199900ns
+Quick sort cem mil quase organizado  double: 11024200ns
+
+Selection sort cem mil invertido  int: 3753610200ns
+Selection sort cem mil invertido  float: 3986667300ns
+Selection sort cem mil invertido  double: 4225238300ns
+
